@@ -60,3 +60,37 @@ If you want to practice using Git and GitHub, feel free to contribute to this re
 ## 📄 License
 
 This repository is open-source and available under the **MIT License**. Feel free to use this code for your assignments, exploring the world of web, and personal learning!
+
+
+---
+
+## Common Programming Naming Cases
+
+Naming conventions are standard rules for naming variables, functions, classes, and constants. They help make code readable and consistent.
+
+### 1. camelCase
+- **Rule:** The first word starts with a lowercase letter, and each subsequent word starts with a capital letter.
+- **Example:** userProfileName.
+- **Usage:** Commonly used for variables and functions in JavaScript and Java.
+
+### 2. PascalCase
+- **Rule:** Every word starts with a capital letter, with no spaces or separators.
+- **Example:** UserProfileManager.
+- **Usage:** Commonly used for classes, interfaces, and components.
+
+### 3. snake_case
+- **Rule:** All words are lowercase and separated by underscores.
+- **Example:** user_profile_name.
+- **Usage:** Commonly used in Python and SQL databases.
+
+### 4. kebab-case
+- **Rule:** All words are lowercase and separated by hyphens.
+- **Example:** user-profile-name.
+- **Usage:** Commonly used in URLs, CSS classes, and HTML data attributes.
+
+### 5. CONSTANT_CASE (Screaming Snake Case)
+- **Rule:** All letters are uppercase, and words are separated by underscores.
+- **Example:** MAX_RETRY_LIMIT.
+- **Usage:** Commonly used for constants and configuration flags.
+
+
